@@ -4,8 +4,8 @@ Lekki i skuteczny skrypt JavaScript do przekierowywania konkretnych bibliotek Je
 
 ---
 ### Przetestowane na:
-- **Jellyfin** 10.11.8
-- **Seerr** 3.1.0
+- **Jellyfin** 10.11.8 oraz 10.11.11
+- **Seerr** 3.1.0 oraz 3.4.1
 ## Dlaczego to rozwiązanie?
 
 - **Bez wtyczek:** Nie obciążasz serwera dodatkowymi procesami.
